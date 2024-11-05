@@ -15,3 +15,5 @@ MONGODB_URI=mongodb://localhost:27017
 ```
 5. Inside the `backend` directory, start the app with the command `go run main.go`
 6. Now the application is running at http://localhost:5001. It can be stopped by pressing Ctrl+C in the terminal where it was started.
+
+Sanni Windows test
